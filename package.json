@@ -18,7 +18,7 @@
     "imageapi.js": "^1.0.4",
     "lodash": "^4.17.15",
     "mogoose": "0.0.1-security",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "mongodb": "^3.5.9",
     "mongoose": "^5.9.21",
     "ms": "^2.1.2",
